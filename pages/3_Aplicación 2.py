@@ -1,8 +1,8 @@
 import streamlit as st
 import todoist
 
-# Reemplaza 'YOUR_API_KEY' con tu clave de API de Todoist
-API_KEY = 'YOUR_API_KEY'
+# clave de API de Todoist
+API_KEY = '227c1497b71d6ecaf66d1af02ce4bde9d3ffae0c'
 
 # Crear un cliente Todoist
 api = todoist.TodoistAPI(API_KEY)
